@@ -5,3 +5,6 @@
 
     $.ajax(...); // Executed after the completion of the previous async:false request.
 </script>
+
+           
+           https://jsfiddle.net/Ltg254ep/
